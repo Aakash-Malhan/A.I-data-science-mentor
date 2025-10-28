@@ -14,13 +14,13 @@ Features:
 - **Debug from Screenshot:** upload a Python error/code screenshot → get diagnosis + fixed code
 - Quick **Docs Lookup** for `pandas`, `numpy`, `sklearn`, etc.
 
-Objective:
-An AI-powered data science mentor designed to help learners and professionals understand, debug, and master complex Python and ML concepts through conversational explanations and intelligent error correction.
+**Objective**:
+- An AI-powered data science mentor designed to help learners and professionals understand, debug, and master complex Python and ML concepts through conversational explanations and intelligent error correction.
 
-Tech Stack:
-Python · Gradio · Google Gemini 2.0 Flash API · Pillow · NumPy · Pandas · Matplotlib
+**Tech Stack:**
+- Python · Gradio · Google Gemini 2.0 Flash API · Pillow · NumPy · Pandas · Matplotlib
 
-Impact:
-Empowers users to quickly resolve code errors and grasp underlying logic by analyzing uploaded screenshots of Python code or tracebacks, delivering context-aware explanations and corrected code.
-Enhances learning productivity and self-service debugging efficiency by up to 70%, reducing dependency on manual searches or forum queries.
+**Impact:**
+- Empowers users to quickly resolve code errors and grasp underlying logic by analyzing uploaded screenshots of Python code or tracebacks, delivering context-aware explanations and corrected code.
+- Enhances learning productivity and self-service debugging efficiency by up to 70%, reducing dependency on manual searches or forum queries.
 
