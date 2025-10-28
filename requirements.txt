@@ -1,0 +1,7 @@
+google-generativeai>=0.7.2
+gradio>=4.44.0
+Pillow>=10.3.0
+gTTS>=2.5.1
+matplotlib>=3.8.0
+pandas>=2.2.0
+numpy>=1.26.0
